@@ -12,6 +12,6 @@ I'm a React Front-End Developer from Georgia, passionate about crafting engaging
 - jQuery 🕹️
 
 ## About Me
-I thrive on challenges and am always eager to learn new technologies. I believe in the power of continuous improvement and strive to grow both personally and professionally with each project I undertake. 💡
+I’m a 19-year-old self-taught Front-End Developer with 5 years of experience. I create fast, responsive, and interactive websites using React, Next.js, and TailwindCSS. I enjoy working on smooth animations, clean design, and user-friendly interfaces. I’m also learning Django Rest Framework to become a full-stack developer. I’m passionate about writing clean code, learning new technologies, and building modern web apps. I'm excited to start a new position where I can grow, contribute, and work with a great team.
 
-Feel free to reach out if you have any questions or just want to connect! 📫.
+Feel free to reach out if you have any questions or just want to connect! 📫. 
